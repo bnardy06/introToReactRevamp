@@ -84,7 +84,7 @@ class CommentForm extends Component{
                                     className="form-control"
                                     /> 
                                     </div>
-                                <button type="submit" color="primary">Submit</button>
+                                <Button type="submit" color="primary">Submit</Button>
                              </LocalForm>        
                     </ModalBody>
                 </Modal>
